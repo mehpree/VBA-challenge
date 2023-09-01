@@ -4,24 +4,25 @@ Welcome to my VBA Stock Market Analysis project, where I've successfully tackled
 
 ### What I've Accomplished
 1. Data Analysis Script
-I've developed a robust VBA script that effectively analyzes stock market data. Here are the key functionalities it delivers:
 
-Ticker Symbol: My script efficiently loops through all the stocks for a specified year and retrieves the ticker symbol for each stock.
+- I've developed a robust VBA script that effectively analyzes stock market data. Here are the key functionalities it delivers:
 
-Yearly Change: It calculates the yearly change for each stock, considering the opening price at the beginning of the year and the closing price at the end of that year.
+- Ticker Symbol: My script efficiently loops through all the stocks for a specified year and retrieves the ticker symbol for each stock.
 
-Percentage Change: My script computes the percentage change for each stock, comparing the opening price at the beginning of the year to the closing price at the end of that year.
+- Yearly Change: It calculates the yearly change for each stock, considering the opening price at the beginning of the year and the closing price at the end of that year.
 
-Total Stock Volume: I've incorporated the ability to determine the total stock volume for each stock, providing valuable insights into trading activity.
+- Percentage Change: My script computes the percentage change for each stock, comparing the opening price at the beginning of the year to the closing price at the end of that year.
+
+- Total Stock Volume: I've incorporated the ability to determine the total stock volume for each stock, providing valuable insights into trading activity.
 
 2. Stock Performance Analysis
-To enhance the utility of my script, I've included features to identify the stocks with exceptional performance:
+- To enhance the utility of my script, I've included features to identify the stocks with exceptional performance:
 
-Greatest % Increase: My script identifies the stock with the highest percentage increase and reports it.
+- Greatest % Increase: My script identifies the stock with the highest percentage increase and reports it.
 
-Greatest % Decrease: Similarly, it pinpoints the stock with the greatest percentage decrease and presents this information.
+- Greatest % Decrease: Similarly, it pinpoints the stock with the greatest percentage decrease and presents this information.
 
-Greatest Total Volume: Lastly, my script also highlights the stock with the highest total volume, offering insights into trading activity.
+- Greatest Total Volume: Lastly, my script also highlights the stock with the highest total volume, offering insights into trading activity.
 
 3. Versatility Across Worksheets
 One of the significant achievements of my project is making the VBA script versatile across multiple worksheets, each representing different years. This ensures that my script can be easily applied to various datasets, providing consistent and reliable results across different time periods.
