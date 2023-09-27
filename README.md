@@ -1,4 +1,5 @@
-![image](https://github.com/mehpree/VBA-challenge/assets/131678606/841f0844-f783-4fa1-a023-a2890a1620f8)
+![image](https://github.com/mehpree/VBA-challenge/assets/131678606/7ea87576-1dfb-4e22-8f66-3c35cf36594c)
+
 # VBA Stock Market Analysis Project
 Welcome to my VBA Stock Market Analysis project, where I've successfully tackled the tasks outlined in the project requirements. Through VBA scripting, I've analyzed stock market data, providing valuable insights into various aspects of stock performance.
 
